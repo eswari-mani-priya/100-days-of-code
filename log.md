@@ -16,3 +16,11 @@
 
 **Link to work:** [Calculator App](https://github.com/eswari-mani-priya/myblog/blob/master/Calculator/calculator.py)
 
+### Day 3: September 6, 2019
+
+**Today's Progress**: Added few more basic functions to calculator
+
+**Thoughts:** Next create a similar application for currency convertor
+
+**Link to work:** [Calculator App](https://github.com/eswari-mani-priya/myblog/blob/master/Calculator/calculator.py)
+
