@@ -24,3 +24,12 @@
 
 **Link to work:** [Calculator App](https://github.com/eswari-mani-priya/myblog/blob/master/Calculator/calculator.py)
 
+### Day 4: September 7, 2019
+
+**Today's Progress**: Started a new application - "Converters", where I want to merge various converters available for daily use. Today I built a simple currency converter using forex-python module.
+
+**Thoughts:** Will be adding more converters to this going forward
+
+**Link to work:** [Converters App](https://github.com/eswari-mani-priya/myblog/tree/master/Converters)
+
+
