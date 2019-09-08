@@ -32,4 +32,14 @@
 
 **Link to work:** [Converters App](https://github.com/eswari-mani-priya/myblog/tree/master/Converters)
 
+### Day 5: September 8, 2019
+
+**Today's Progress**: Today I worked on File encryption and decryption using cryptography module. This is mostly used in saving confidential files. Without a key/password this won't reveal the content.
+
+**Thoughts:** Looking into python game development
+
+**Link to work:** [Encrypt-Decrypt Files](https://github.com/eswari-mani-priya/myblog/blob/master/Random/encrypt-decrypt.py)
+
+
+
 
