@@ -40,6 +40,13 @@
 
 **Link to work:** [Encrypt-Decrypt Files](https://github.com/eswari-mani-priya/myblog/blob/master/Random/encrypt-decrypt.py)
 
+### Day 6: September 9, 2019
+
+**Today's Progress**: Today I developed a simple guess game using tkinter and random modules
+
+**Thoughts:** Looking into python game development
+
+**Link to work:** [Guess Game](https://github.com/eswari-mani-priya/myblog/blob/master/Games/guess_game.py)
 
 
 
