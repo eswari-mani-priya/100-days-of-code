@@ -48,5 +48,14 @@
 
 **Link to work:** [Guess Game](https://github.com/eswari-mani-priya/myblog/blob/master/Games/guess_game.py)
 
+### Day 7: September 10, 2019
+
+**Today's Progress**: Started learning Pygame module. Wrote a simple script to create shapes in different colors using pygame
+
+**Thoughts:** Develop simple game using Pygame
+
+**Link to work:** [Pygame_Intro](https://github.com/eswari-mani-priya/myblog/blob/master/Games/Pygame_intro.py)
+
+
 
 
