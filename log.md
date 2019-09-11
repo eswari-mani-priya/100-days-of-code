@@ -56,6 +56,14 @@
 
 **Link to work:** [Pygame_Intro](https://github.com/eswari-mani-priya/myblog/blob/master/Games/Pygame_intro.py)
 
+### Day 8: September 11, 2019
+
+**Today's Progress**: Wrote a simple Snake game. but it has few bugs..will rectify them tomorrow
+
+**Thoughts:** Complete snake game
+
+**Link to work:** [Snake Game](https://github.com/eswari-mani-priya/myblog/blob/master/Games/snake_game.py)
+
 
 
 
