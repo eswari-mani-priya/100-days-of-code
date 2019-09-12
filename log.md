@@ -64,6 +64,14 @@
 
 **Link to work:** [Snake Game](https://github.com/eswari-mani-priya/myblog/blob/master/Games/snake_game.py)
 
+### Day 9: September 12, 2019
+
+**Today's Progress**: Fixed bugs in snake game
+
+**Thoughts:** Add few graphics to it
+
+**Link to work:** [Snake Game](https://github.com/eswari-mani-priya/myblog/blob/master/Games/snake_game.py)
+
 
 
 
