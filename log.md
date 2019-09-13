@@ -72,6 +72,12 @@
 
 **Link to work:** [Snake Game](https://github.com/eswari-mani-priya/myblog/blob/master/Games/snake_game.py)
 
+### Day 10: September 13, 2019
 
+**Today's Progress**: Added TimeConverter using Tkiner and pendulum
+
+**Thoughts:** tried new module pendulum other than pytz.
+
+**Link to work:** [Time_Converter](https://github.com/eswari-mani-priya/myblog/blob/master/Converters/time_converter.py)
 
 
