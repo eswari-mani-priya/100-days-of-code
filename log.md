@@ -80,4 +80,12 @@
 
 **Link to work:** [Time_Converter](https://github.com/eswari-mani-priya/myblog/blob/master/Converters/time_converter.py)
 
+### Day 11: September 14, 2019
+
+**Today's Progress**: Developed a scraper using BeautifulSoup and pdfkit to scrape all modules data from [Python Module Of The Week](https://pymotw.com/3/) and save them in pdf format in our local folder using pdfkit module
+
+**Thoughts:** Learned new pdfkit module and how simply we can convert html to pdf.
+
+**Link to work:** [Python Module Scraper](https://github.com/eswari-mani-priya/myblog/blob/master/Random/scraper.py)
+
 
