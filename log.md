@@ -88,4 +88,12 @@
 
 **Link to work:** [Python Module Scraper](https://github.com/eswari-mani-priya/myblog/blob/master/Random/scraper.py)
 
+### Day 12: September 15, 2019
+
+**Today's Progress**: Developed a script to open all my social websites and github whenever I restart my system automatically
+
+**Thoughts:** Simple but powerful script
+
+**Link to work:** [Chrome Opener](https://github.com/eswari-mani-priya/myblog/blob/master/Random/chrome_tabs.py)
+
 
