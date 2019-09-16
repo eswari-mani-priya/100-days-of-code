@@ -96,4 +96,11 @@
 
 **Link to work:** [Chrome Opener](https://github.com/eswari-mani-priya/myblog/blob/master/Random/chrome_tabs.py)
 
+### Day 13: September 16, 2019
+
+**Today's Progress**: Developed a simple desktop Text to Speech converter using Google Text to Speech library(gTTS), pygame and tkinter
+
+**Thoughts:** Simple but powerful script
+
+**Link to work:** [Text_to_Speech COnverter](https://github.com/eswari-mani-priya/myblog/blob/master/Converters/text_to_speech.py)
 
