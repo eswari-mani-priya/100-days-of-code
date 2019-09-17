@@ -104,3 +104,11 @@
 
 **Link to work:** [Text_to_Speech COnverter](https://github.com/eswari-mani-priya/myblog/blob/master/Converters/text_to_speech.py)
 
+### Day 14: September 17, 2019
+
+**Today's Progress**: Developed a simple image to text converter using pytesseract, tkinter and PIL libraries
+
+**Thoughts:** Simple but powerful script
+
+**Link to work:** [Image to Text Converter](https://github.com/eswari-mani-priya/myblog/blob/master/Converters/image_to_text.py)
+
