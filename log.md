@@ -112,3 +112,11 @@
 
 **Link to work:** [Image to Text Converter](https://github.com/eswari-mani-priya/myblog/blob/master/Converters/image_to_text.py)
 
+
+### Day 15: September 18, 2019
+
+**Today's Progress**: Developed a simple script to get search results from Google Search using googleapiclient module
+
+**Thoughts:** Simple but powerful script
+
+**Link to work:** [Google Search](https://github.com/eswari-mani-priya/myblog/blob/master/Random/gsearch.py)
