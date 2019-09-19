@@ -120,3 +120,12 @@
 **Thoughts:** Simple but powerful script
 
 **Link to work:** [Google Search](https://github.com/eswari-mani-priya/myblog/blob/master/Random/gsearch.py)
+
+
+### Day 16: September 19, 2019
+
+**Today's Progress**: Developed a simple chatbot script using nltk module
+
+**Thoughts:** Simple but powerful script
+
+**Link to work:** [Basic Chat Bot](https://github.com/eswari-mani-priya/myblog/blob/master/Random/chat_bot_basic.py)
