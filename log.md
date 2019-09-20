@@ -129,3 +129,12 @@
 **Thoughts:** Simple but powerful script
 
 **Link to work:** [Basic Chat Bot](https://github.com/eswari-mani-priya/myblog/blob/master/Random/chat_bot_basic.py)
+
+### Day 17: September 20, 2019
+
+**Today's Progress**: Developed UI for chatbot script using tkinter
+
+**Thoughts:** Simple but powerful script
+
+**Link to work:** [Basic Chat Bot](https://github.com/eswari-mani-priya/myblog/blob/master/Random/chat_bot_basic.py)
+
