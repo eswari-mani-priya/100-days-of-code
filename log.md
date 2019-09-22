@@ -138,3 +138,10 @@
 
 **Link to work:** [Basic Chat Bot](https://github.com/eswari-mani-priya/myblog/blob/master/Random/chat_bot_basic.py)
 
+### Day 18: September 22, 2019
+
+**Today's Progress**: Developed Dialog flow based chatbot using html and Dialog flow intents and entities
+
+**Thoughts:** Simple but powerful script
+
+**Link to work:** [PIP Assistant Chatbot](https://github.com/eswari-mani-priya/myblog/tree/master/PIP-Chatbot)
