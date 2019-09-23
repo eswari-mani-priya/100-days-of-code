@@ -145,3 +145,12 @@
 **Thoughts:** Simple but powerful script
 
 **Link to work:** [PIP Assistant Chatbot](https://github.com/eswari-mani-priya/myblog/tree/master/PIP-Chatbot)
+
+
+### Day 19: September 23, 2019
+
+**Today's Progress**: Created a django project and set up Heroku server for PIP-Assistant
+
+**Thoughts:** Next make changes to Django app to display chatbot
+
+**Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
