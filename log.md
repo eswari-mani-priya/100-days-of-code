@@ -154,3 +154,12 @@
 **Thoughts:** Next make changes to Django app to display chatbot
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
+
+### Day 20: September 24, 2019
+
+**Today's Progress**: Linked Dialog flow bot to django project. Now we can see the bot as a webpage
+
+**Thoughts:** Set the app in heroku server
+
+**Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
