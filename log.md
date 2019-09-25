@@ -163,3 +163,11 @@
 **Thoughts:** Set the app in heroku server
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
+### Day 21: September 25, 2019
+
+**Today's Progress**: Now issue with Heroku is resolved.now we can see it online
+
+**Thoughts:** https://pip-assistant.herokuapp.com
+
+**Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
