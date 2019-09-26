@@ -171,3 +171,11 @@
 **Thoughts:** https://pip-assistant.herokuapp.com
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
+### Day 22: September 26, 2019
+
+**Today's Progress**: Added some media and styles to the bot UI
+
+**Thoughts:** https://pip-assistant.herokuapp.com
+
+**Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
