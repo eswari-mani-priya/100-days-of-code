@@ -179,3 +179,11 @@
 **Thoughts:** https://pip-assistant.herokuapp.com
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
+### Day 23: September 27, 2019
+
+**Today's Progress**: Used dialogflow api to get responses from dialogflow api.
+
+**Thoughts:** https://pip-assistant.herokuapp.com
+
+**Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
