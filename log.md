@@ -187,3 +187,11 @@
 **Thoughts:** https://pip-assistant.herokuapp.com
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
+### Day 24: September 28, 2019
+
+**Today's Progress**: Created a rough html for chatbox 
+
+**Thoughts:** https://pip-assistant.herokuapp.com
+
+**Link to work:** [Chatbox](https://github.com/eswari-mani-priya/PIP-Assistant/blob/master/pip_assistant/pip_assistant/templates/chatbox.html)
