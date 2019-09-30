@@ -196,10 +196,19 @@
 
 **Link to work:** [Chatbox](https://github.com/eswari-mani-priya/PIP-Assistant/blob/master/pip_assistant/pip_assistant/templates/chatbox.html)
 
-### Day 24: September 28, 2019
+### Day 25: September 29, 2019
 
 **Today's Progress**: Showed chatbox.html through django views 
 
 **Thoughts:** https://pip-assistant.herokuapp.com
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
+### Day 26: September 30, 2019
+
+**Today's Progress**: Able to get user input from UI to django views 
+
+**Thoughts:** https://pip-assistant.herokuapp.com
+
+**Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
