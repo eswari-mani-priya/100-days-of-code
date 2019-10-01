@@ -212,3 +212,11 @@
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
 
+### Day 26: September 30, 2019
+
+**Today's Progress**: Able to get dialogflow output for user input in views but need to show that in UI
+
+**Thoughts:** https://pip-assistant.herokuapp.com
+
+**Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
