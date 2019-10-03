@@ -228,7 +228,7 @@
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
 
-### Day 28: October 3, 2019
+### Day 29: October 3, 2019
 
 **Today's Progress**: Tried Django channels
 **Thoughts:** https://pip-assistant.herokuapp.com
