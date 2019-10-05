@@ -242,3 +242,11 @@
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
 
+
+### Day 31: October 5, 2019
+
+**Today's Progress**: Added few more intents and entities to Dialogflow
+**Thoughts:** https://pip-assistant.herokuapp.com
+
+**Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
