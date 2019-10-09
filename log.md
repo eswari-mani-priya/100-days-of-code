@@ -271,3 +271,10 @@
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
 
+### Day 35: October 9, 2019
+
+**Today's Progress**: Added some useful tutorials and courses on Python to the dialogflow
+**Thoughts:** https://pip-assistant.herokuapp.com/pip
+
+**Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
+
