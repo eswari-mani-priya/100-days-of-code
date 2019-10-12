@@ -278,11 +278,16 @@
 
 **Link to work:** [PIP-BOT](https://github.com/eswari-mani-priya/PIP-Assistant)
 
-### Day 35: October 11, 2019
+### Day 36: October 11, 2019
 
 **Today's Progress**: Added Titanic Data Analysis using pandas
 **Thoughts:** : 
 
 **Link to work:** [Titanic Data Analysis](https://github.com/eswari-mani-priya/myblog/blob/master/Random/titatic_data_analysis.py)
 
+### Day 37: October 12, 2019
 
+**Today's Progress**: Added Numpy Helper Functions
+**Thoughts:** : 
+
+**Link to work:** [Numpy Helper](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/numpy_helper.py)
