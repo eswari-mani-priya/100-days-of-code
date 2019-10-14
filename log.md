@@ -291,3 +291,17 @@
 **Thoughts:** : 
 
 **Link to work:** [Numpy Helper](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/numpy_helper.py)
+
+### Day 38: October 13, 2019
+
+**Today's Progress**: Added few more Numpy Helper Functions
+**Thoughts:** : 
+
+**Link to work:** [Numpy Helper](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/numpy_helper.py)
+
+### Day 39: October 14, 2019
+
+**Today's Progress**: Installed Scikit-learn. Applied Linear Regression model on Diabetes dataset 
+**Thoughts:** : 
+
+**Link to work:** [Linear_Regression](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/LinearRegression.py)
