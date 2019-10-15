@@ -305,3 +305,10 @@
 **Thoughts:** : 
 
 **Link to work:** [Linear_Regression](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/LinearRegression.py)
+
+### Day 40: October 15, 2019
+
+**Today's Progress**: Did comparision to Linear and Ridge regression using Mean Square and Variance parameters
+**Thoughts:** : 
+
+**Link to work:** [Linear_Regression](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/LinearRegression.py)
