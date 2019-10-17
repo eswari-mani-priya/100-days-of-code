@@ -312,3 +312,19 @@
 **Thoughts:** : 
 
 **Link to work:** [Linear_Regression](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/LinearRegression.py)
+
+### Day 41: October 16, 2019
+
+**Today's Progress**: Worked on Handwritten Digit classification and got the predictions using KNN
+**Thoughts:** : 
+
+**Link to work:** [Digit Classification KNN](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py)
+
+### Day 42: October 17, 2019
+
+**Today's Progress**: Added classification reports, plots for Digit classification and also realtime digit identification module
+**Thoughts:** : 
+
+**Link to work:** [Digit Classification KNN](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py)
+
+https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py
