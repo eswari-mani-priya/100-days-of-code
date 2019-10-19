@@ -327,4 +327,18 @@
 
 **Link to work:** [Digit Classification KNN](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py)
 
-https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py
+### Day 43: October 18, 2019
+
+**Today's Progress**: Real time digit classification is not working. Looking for solutions
+**Thoughts:** : 
+
+**Link to work:** [Digit Classification KNN](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py)
+
+
+### Day 44: October 19, 2019
+
+**Today's Progress**: Tried cv2, PIL image readings and turning them to numpy array but for all images the prediction is coming as 1. Looking for more solutions
+**Thoughts:** : 
+
+**Link to work:** [Digit Classification KNN](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py)
+
