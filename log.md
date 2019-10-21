@@ -342,3 +342,17 @@
 
 **Link to work:** [Digit Classification KNN](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py)
 
+### Day 45: October 20, 2019
+
+**Today's Progress**: Tried to fix issues with KNN digit identification of custom images
+**Thoughts:** : 
+
+**Link to work:** [Digit Classification KNN](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py)
+
+### Day 46: October 21, 2019
+
+**Today's Progress**: Finally solved the issues and able to identify custom images
+**Thoughts:** : 
+
+**Link to work:** [Digit Classification KNN](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py)
+
