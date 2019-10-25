@@ -356,3 +356,17 @@
 
 **Link to work:** [Digit Classification KNN](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Digit_classification_knn.py)
 
+### Day 47: October 24, 2019
+
+**Today's Progress**: Wrote SVM Image Classification
+**Thoughts:** : 
+
+**Link to work:** [Image Classification](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Image_Classification_SVM.py)
+
+
+### Day 48: October 25, 2019
+
+**Today's Progress**: Custom Image prediction using SVM Image Classification
+**Thoughts:** : 
+
+**Link to work:** [Image Classification](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Image_Classification_SVM.py)
