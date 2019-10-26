@@ -370,3 +370,11 @@
 **Thoughts:** : 
 
 **Link to work:** [Image Classification](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/Image_Classification_SVM.py)
+
+
+### Day 49: October 26, 2019
+
+**Today's Progress**: Custom MNIST data classification using SVM
+**Thoughts:** : 
+
+**Link to work:** [Digit Prediction using SVM](https://github.com/eswari-mani-priya/myblog/blob/master/MachineLearning/MNIST_Classification_SVM.py)
